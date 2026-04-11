@@ -195,10 +195,13 @@ Market-Basket-Analysis-ML/
 
 ---
 
-## Authors
+## 👩‍💻 Authors
 
-**Yogita Alone** — [@yogitaalone04-web](https://github.com/yogitaalone04-web)
+**Yogita Alone**
+GitHub: [@yogitaalone04-web](https://github.com/yogitaalone04-web)
 
 **Shinam Sheikh** — USN: CS24D010
 
 Repository: [Market-Basket-Analysis-ML](https://github.com/yogitaalone04-web/Market-Basket-Analysis-ML)
+
+---
